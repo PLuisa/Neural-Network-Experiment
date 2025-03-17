@@ -1,10 +1,10 @@
-Data Mining Project
+## **Data Mining Project**
 
-Overview
+**Overview**
 
 This project implements various data mining techniques, including clustering, neural networks, association rule mining, and weighted nearest neighbor classification. The goal is to analyze datasets and extract meaningful patterns using different machine learning methods.
 
-Implemented Algorithms
+**Implemented Algorithms**
 
 🔹 1. K-Means Clustering
 kmeans1.py: First approach to K-Means clustering.
